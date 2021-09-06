@@ -26,5 +26,5 @@ Standard would be,
 3. dispatch a success or failure action based on how the request resolves.
 
  
-<p></p>
+<p>redux/toolkit has an API that handles the above -createAsyncThunk</p>
 <p></p>
